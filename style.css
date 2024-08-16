@@ -107,3 +107,33 @@ a {
         width: 40%;
     }
 }
+
+/* footer section ---------------------------- */
+
+.footer-section-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.footer-section {
+    width: 80%;
+}
+
+.footer-section-heading {
+    opacity: 70%;
+}
+
+.footer-section-content {
+    opacity: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 400;
+}
+
+.footer-card {
+    width: 20%;
+}
